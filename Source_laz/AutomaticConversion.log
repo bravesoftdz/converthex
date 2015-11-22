@@ -1,0 +1,58 @@
+Hint: * Converting file C:\local\git\converthex\Source_laz\HEX_VHDL.dpr *
+Hint: Found all unit files
+Hint: * Fixing used units for file C:\local\git\converthex\Source_laz\HEX_VHDL.dpr *
+Hint: 
+Hint: *** Converting unit files belonging to project/package ***
+Hint: * Converting file C:\local\git\converthex\Source_laz\ConvertHex_VHDL.pas *
+Hint: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+Hint: * Converting file C:\local\git\converthex\Source_laz\Unit2.pas *
+Hint: Replaced unit "Windows" with "LCLIntf, LCLType, LMessages" in uses section.
+Hint: 
+Hint: *** Fixing used units and Repairing form files ***
+Hint: * Repairing form file C:\local\git\converthex\Source_laz\ConvertHex_VHDL.lfm *
+Hint: Replaced type "TRichEdit" with "TMemo".
+Hint: Removed property "TextHeight".
+Hint: Removed property "OldCreateOrder".
+Hint: Changed Top coord of TMemo from "14" to "12" inside TPanel.
+Hint: Changed Left coord of TMemo from "1" to "0" inside TPanel.
+Hint: Changed Top coord of TLabel from "1" to "0" inside TPanel.
+Hint: Changed Left coord of TLabel from "1" to "0" inside TPanel.
+Hint: Changed Top coord of TCheckBox from "4" to "2" inside TPanel.
+Hint: Changed Left coord of TCheckBox from "168" to "166" inside TPanel.
+Hint: Changed Top coord of TComboBox from "2" to "0" inside TPanel.
+Hint: Changed Left coord of TComboBox from "280" to "278" inside TPanel.
+Hint: Changed Top coord of TComboBox from "2" to "0" inside TPanel.
+Hint: Changed Left coord of TComboBox from "112" to "110" inside TPanel.
+Hint: Changed Top coord of TButton from "3" to "1" inside TPanel.
+Hint: Changed Left coord of TButton from "432" to "430" inside TPanel.
+Hint: Changed Top coord of TCheckBox from "4" to "2" inside TPanel.
+Hint: Changed Left coord of TCheckBox from "344" to "342" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "656" to "654" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "576" to "574" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "608" to "606" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "528" to "526" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "632" to "630" inside TPanel.
+Hint: Changed Top coord of TSpeedButton from "0" to "0" inside TPanel.
+Hint: Changed Left coord of TSpeedButton from "552" to "550" inside TPanel.
+Hint: Changed Top coord of TLabel from "6" to "4" inside TPanel.
+Hint: Changed Left coord of TLabel from "8" to "6" inside TPanel.
+Hint: Changed Top coord of TLabel from "6" to "4" inside TPanel.
+Hint: Changed Left coord of TLabel from "232" to "230" inside TPanel.
+Hint: * Fixing used units for file C:\local\git\converthex\Source_laz\ConvertHex_VHDL.pas *
+Hint: * Repairing form file C:\local\git\converthex\Source_laz\Unit2.lfm *
+Hint: Removed property "BevelOuter".
+Hint: Removed property "BevelInner".
+Hint: Removed property "BevelEdges".
+Hint: Removed property "BevelOuter".
+Hint: Removed property "BevelInner".
+Hint: Removed property "BevelEdges".
+Hint: Removed property "TextHeight".
+Hint: Removed property "OldCreateOrder".
+Hint: * Fixing used units for file C:\local\git\converthex\Source_laz\Unit2.pas *
+Hint: Conversion took: 00:00:08
+Hint: Conversion Ready.
